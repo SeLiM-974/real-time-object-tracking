@@ -33,6 +33,9 @@ runs/
 !examples/demo.mp4
 !examples/session_example.json
 
+# Local publication notes (not part of the distributed project)
+/docs/RELEASE_CHECKLIST.md
+
 # Temporary, backup, and log files
 *.tmp
 *.temp

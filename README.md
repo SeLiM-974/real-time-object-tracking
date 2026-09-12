@@ -71,8 +71,7 @@ real-time-object-tracking/
 │   ├── test_yolo_tracker.py
 │   └── test_hsv_color_tracker.py
 ├── docs/
-│   ├── PORTFOLIO.md
-│   └── RELEASE_CHECKLIST.md
+│   └── PORTFOLIO.md
 ├── requirements.txt
 ├── LICENSE
 ├── .gitignore
@@ -92,7 +91,7 @@ The application does not implement a new detector or association algorithm. It u
 
 Use a desktop environment with a working webcam and GUI support.
 
-The reference development environment is **Windows / Python 3.13.1**. The pinned NumPy version requires Python 3.12 or newer; Python 3.13 is the recommended starting point for reproducing this environment. Other operating systems and hardware configurations have not been camera-tested as part of this repository cleanup.
+Developed and run on **Windows / Python 3.13.1**. The pinned NumPy version requires Python 3.12 or newer; Python 3.13 is recommended for this environment.
 
 Download or clone this repository, open a terminal in its root, and create a fresh virtual environment.
 
@@ -337,6 +336,6 @@ Ultralytics YOLO software and pretrained models are offered under AGPL-3.0 and a
 
 Copyright (c) 2026 SeLiM-974. This project's original source code is licensed under the **GNU Affero General Public License, version 3 only (AGPL-3.0-only)**. See [LICENSE](LICENSE) for the full terms. The software is provided without warranty.
 
-Third-party libraries and model weights remain subject to their respective licenses. This project's license does not replace those terms. See the [release checklist](docs/RELEASE_CHECKLIST.md) for the remaining publication checks.
+Third-party libraries and model weights remain subject to their respective licenses. This project's license does not replace those terms.
 
 Built with [Ultralytics YOLO](https://docs.ultralytics.com/models/yolov8/), [OpenCV](https://opencv.org/), and [NumPy](https://numpy.org/). The motion-analysis and reporting code is the focus of this project.
