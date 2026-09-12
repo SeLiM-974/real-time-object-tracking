@@ -22,6 +22,6 @@ The application code and the source recording have not been changed to reconcile
 
 ## Before publication
 
-Review the complete recording, including any reflections or private information, before pushing it to GitHub. Only these deliberately selected assets belong in the public examples directory. The original recording and generated session report remain unchanged in the project root and are excluded from Git; the extensionless restored source is explicitly ignored as well.
+This directory contains the selected demo assets. New recordings and generated session reports are excluded from Git; running the application does not update these examples. The extensionless restored source recording is also ignored.
 
 The MP4 uses the application's original codec. If an in-browser player cannot decode it, download it and open it in a local video player.
