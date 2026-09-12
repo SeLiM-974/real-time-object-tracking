@@ -1,0 +1,41 @@
+# Python bytecode, tooling, and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Personal IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Downloaded/exported model binaries
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Automatic recordings and private session reports
+*.mp4
+/yolo_tracking_output
+session_*.json
+runs/
+
+# Only intentionally curated examples may be committed
+!examples/demo.mp4
+!examples/session_example.json
+
+# Temporary, backup, and log files
+*.tmp
+*.temp
+*.bak
+*.log
+*~
