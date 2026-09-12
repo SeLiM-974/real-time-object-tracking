@@ -1,0 +1,34 @@
+{
+    "session": {
+        "started_at": "2026-09-11T19:47:47+03:00",
+        "ended_at": "2026-09-11T19:48:03+03:00",
+        "duration_seconds": 16.323145999995177,
+        "unique_track_count": 2
+    },
+    "tracks": {
+        "1": {
+            "class_name": "cell phone",
+            "first_seen": 0.4601939999993192,
+            "last_seen": 13.576828199991724,
+            "lifetime_seconds": 13.116634199992404,
+            "frames_tracked": 91,
+            "total_distance_px": 904.4250291163613,
+            "max_smoothed_speed_px_s": 247.3762507323655,
+            "measured_seconds": 9.109813600007328,
+            "average_speed_px_s": 99.2803002155427,
+            "temporary_loss_count": 5
+        },
+        "2": {
+            "class_name": "vase",
+            "first_seen": 2.968916999991052,
+            "last_seen": 13.576828199991724,
+            "lifetime_seconds": 10.607911200000672,
+            "frames_tracked": 92,
+            "total_distance_px": 866.5462721280627,
+            "max_smoothed_speed_px_s": 230.405678728058,
+            "measured_seconds": 8.967775199984317,
+            "average_speed_px_s": 96.62890213055053,
+            "temporary_loss_count": 7
+        }
+    }
+}
