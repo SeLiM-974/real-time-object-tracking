@@ -74,6 +74,7 @@ real-time-object-tracking/
 │   ├── PORTFOLIO.md
 │   └── RELEASE_CHECKLIST.md
 ├── requirements.txt
+├── LICENSE
 ├── .gitignore
 ├── .gitattributes
 └── README.md
@@ -334,6 +335,8 @@ These are separate future changes, not features of the current release.
 
 Ultralytics YOLO software and pretrained models are offered under AGPL-3.0 and alternative commercial licensing. Review the [official licensing terms](https://www.ultralytics.com/license) before distribution or reuse. Not committing model weights does not remove their licensing conditions.
 
-A license for this repository's own code has **not yet been selected**. Do not describe this repository as MIT-licensed or license-free; confirm the license before publishing. See the [release checklist](docs/RELEASE_CHECKLIST.md).
+Copyright (c) 2026 SeLiM-974. This project's original source code is licensed under the **GNU Affero General Public License, version 3 only (AGPL-3.0-only)**. See [LICENSE](LICENSE) for the full terms. The software is provided without warranty.
+
+Third-party libraries and model weights remain subject to their respective licenses. This project's license does not replace those terms. See the [release checklist](docs/RELEASE_CHECKLIST.md) for the remaining publication checks.
 
 Built with [Ultralytics YOLO](https://docs.ultralytics.com/models/yolov8/), [OpenCV](https://opencv.org/), and [NumPy](https://numpy.org/). The motion-analysis and reporting code is the focus of this project.
