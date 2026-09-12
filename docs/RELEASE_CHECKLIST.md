@@ -15,7 +15,7 @@
 
 ## Before public release
 
-- [ ] Choose a repository license compatible with the intended Ultralytics usage. Review [the official terms](https://www.ultralytics.com/license); no project license has been assigned automatically.
+- [x] Owner approved AGPL-3.0 for the project's original source code; the full [LICENSE](../LICENSE) and README notice are included. Third-party dependencies and weights retain their own terms; see [Ultralytics licensing](https://www.ultralytics.com/license).
 - [ ] Review the selected video and screenshot for consent, reflections, or private information before public upload.
 - [ ] Test both applications manually with the webcam using the documented interpreter.
 - [ ] Check `q`, `r`, the resulting video, and a YOLO report after the folder reorganization.
